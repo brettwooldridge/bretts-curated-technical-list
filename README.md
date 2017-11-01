@@ -8,3 +8,4 @@ A personal list of links to technical papers, blogs, and videos that are of pers
 #### Java Garbage Collection / Tuning
 [G1 Garbage Collector Details and Tuning](https://youtu.be/Gee7QfoY8ys) - Simone Bordet (video).  *Very detailed* and useful. <br>
 [GC Tuning Confessions Of A Performance Engineer](https://youtu.be/Qli_Jttro6Y) - Monica Beckwith (video) <br>
+[The 6 Memory Metrics You Should Track in Your Java Benchmarks](https://cruftex.net/2017/03/28/The-6-Memory-Metrics-You-Should-Track-in-Your-Java-Benchmarks.html)
